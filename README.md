@@ -1,2 +1,2 @@
 # Amber_Macx
-A twitter bot that scours the web for cool stuff
+A twitter bot that scours the web for cool stuff.
